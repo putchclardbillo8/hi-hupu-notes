@@ -1,2 +1,14 @@
 # hi-hupu-notes
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 维护备注
+
+若仓库启用 Pages，页面可通过 Pages 地址进行访问。
